@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>IPO Connect Updates</title>
+    <item>
+      <title>Version 1.0.1</title>
+      <description>Added new IPO features and fixed login issue.</description>
+      <version>1.0.1</version>
+      <minimumVersion>1.1.0</minimumVersion>
+      <url>https://yourdomain.com/download/windows-app.zip</url>
+    </item>
+  </channel>
+</rss>
